@@ -46,9 +46,7 @@
 
 | | |
 |---:|:---|
-| **Name** | DD |
 | **Role** | AI Systems Builder |
-| **Company** | CyBarrier |
 | **Languages** | `ko_KR` · `en_US` |
 | **Daily Driver** | Claude Code Max (Opus 4.6) |
 
