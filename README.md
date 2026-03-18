@@ -72,7 +72,7 @@
 **<a href="https://github.com/whynowlab/swing-skills">Swing Skills</a>** — 6 cognitive firewalls for AI agents
 <br><sub>미검증 답변 · 표면적 리뷰 · 낙관 편향 · 디폴트 고착 · 불투명 추론 · 얕은 분석</sub>
 <br><br>
-[![Stars](https://img.shields.io/github/stars/whynowlab/swing-skills?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/swing-skills) `npx skills add whynowlab/swing-skills --all`
+[![Stars](https://img.shields.io/github/stars/whynowlab/swing-skills?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/swing-skills) `npx skills add swing-skills --all`
 
 </td>
 <td width="50%" valign="top">
