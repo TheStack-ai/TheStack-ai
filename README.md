@@ -56,6 +56,8 @@
 ![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-5.4-412991?style=flat-square&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-CLI-412991?style=flat-square&logo=openai&logoColor=white)
+<br>
+[![Tokscale](https://img.shields.io/badge/Tokscale-8.5B_tokens_·_$5.4K-00C7B7?style=flat-square)](https://tokscale.ai/u/whynowlab)
 
 > *"AI는 원래 이렇게 생각할 수 있었습니다. 다만 아무도 시킨 적이 없었을 뿐."*
 
