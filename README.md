@@ -126,6 +126,22 @@
 </tr>
 </table>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/TheStack-ai/waypath">waypath</a>** — Diagnose & test Claude Code skills
+<br><sub>8-rule diagnostics · Auto-fix · Rollback · Eval testing · Regression detection</sub>
+<br><br>
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/waypath?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/waypath) [![npm](https://img.shields.io/npm/v/waypath-cli?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/pulser-cli)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
 ---
 
 ## Architecture: Jarvis AI OS
