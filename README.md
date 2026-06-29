@@ -45,14 +45,14 @@
 |---:|:---|
 | **Role** | AI Systems Builder |
 | **Languages** | `ko_KR` · `en_US` |
-| **Daily Driver** | Claude Code Max (Opus 4.6) |
+| **Daily Driver** | Claude Code Max (Fable 5) |
 
 <br>
 
-![Claude](https://img.shields.io/badge/Claude-Opus_4.6-a78bfa?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-5.4-412991?style=flat-square&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-CLI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Fable_5-a78bfa?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro_Preview-4285F4?style=flat-square&logo=google&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-5.5-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-GPT_5.5-412991?style=flat-square&logo=openai&logoColor=white)
 
 > *"AI could always think like this. No one ever asked it to."*
 
@@ -176,7 +176,7 @@
 | Event Hooks | 11 |
 | Skill Mappings | 329 |
 | Python LOC | ~6,500 |
-| AI Engines | 4 (Claude, Gemini, GPT-5.4, Codex) |
+| AI Engines | 4 (Claude Fable 5, Gemini 3.1 Pro Preview, GPT-5.5, Codex GPT-5.5) |
 | Knowledge Graph Entities | 117 |
 
 </details>
