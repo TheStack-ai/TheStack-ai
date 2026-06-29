@@ -1,4 +1,3 @@
-<!-- Snake Animation — top banner -->
 <div align="center">
 
 <picture>
@@ -13,14 +12,12 @@
 
 <div align="center">
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Systems+Builder;Your+AI+is+not+swinging+at+all;6+Cognitive+Firewalls+for+AI+Agents;22+Agent+Teams+%7C+4+AI+Engines)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- Profile Card -->
 <table align="center">
 <tr>
 <td>
@@ -59,6 +56,8 @@
 
 > *"AI could always think like this. No one ever asked it to."*
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-open_source_tools-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/TheStack-ai)
+
 </div>
 
 ---
@@ -79,46 +78,46 @@
 <tr>
 <td width="50%" valign="top">
 
+**<a href="https://github.com/TheStack-ai/zclean">zclean</a>** — Free memory cleaner for AI coding tools
+<br><sub>Claude Code · Codex · Cursor · SessionEnd Hook · Time-based protection</sub>
+<br><br>
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/zclean?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/zclean) [![npm](https://img.shields.io/npm/v/@thestackai/zclean?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@thestackai/zclean)
+
+</td>
+<td width="50%" valign="top">
+
 **<a href="https://github.com/TheStack-ai/swing-skills">Swing Skills</a>** — 6 cognitive firewalls for AI agents
 <br><sub>Unverified answers · Surface-level reviews · Optimism bias · Default lock-in · Opaque reasoning · Shallow analysis</sub>
 <br><br>
 [![Stars](https://img.shields.io/github/stars/TheStack-ai/swing-skills?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/swing-skills) `npx skills add swing-skills --all`
 
 </td>
-<td width="50%" valign="top">
-
-**<a href="https://github.com/TheStack-ai/mrstack">Mr.Stack</a>** — An AI butler that grows with every conversation
-<br><sub>24/7 Telegram · Long-term memory · Voice-to-action · Morning briefing · Weekly retrospective</sub>
-<br><br>
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/mrstack?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/mrstack) `uv tool install claude-code-telegram`
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/TheStack-ai/jarvis-orb">Jarvis Orb</a>** — Real-time visualization of AI reasoning
-<br><sub>4-Tier Memory · Temporal Scoring · Desktop Orb · Auto-connect to Claude Code</sub>
-<br><br>
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/jarvis-orb?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/jarvis-orb) [![macOS](https://img.shields.io/badge/macOS-ready-white?style=flat-square&logo=apple&logoColor=white)](https://github.com/TheStack-ai/jarvis-orb)
-
-</td>
-<td width="50%" valign="top">
-
-**<a href="https://github.com/TheStack-ai/zclean">zclean</a>** — Auto-cleanup zombie processes from AI coding tools
-<br><sub>Auto-detect · SessionEnd Hook · Time-based protection · Avg ~2.4 GB reclaimed</sub>
-<br><br>
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/zclean?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/zclean) [![npm](https://img.shields.io/npm/v/@thestackai/zclean?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@thestackai/zclean)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**<a href="https://github.com/TheStack-ai/pulser">pulser</a>** — Diagnose & test Claude Code skills
+**<a href="https://github.com/TheStack-ai/pulser">pulser</a>** — SKILL.md linter for Claude Code
 <br><sub>8-rule diagnostics · Auto-fix · Rollback · Eval testing · Regression detection</sub>
 <br><br>
 [![Stars](https://img.shields.io/github/stars/TheStack-ai/pulser?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/pulser) [![npm](https://img.shields.io/npm/v/pulser-cli?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/pulser-cli)
+
+</td>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/TheStack-ai/mrstack">Mr.Stack</a>** — Run Claude Code from Telegram
+<br><sub>24/7 Telegram · Long-term memory · Voice-to-action · Morning briefing · Weekly retrospective</sub>
+<br><br>
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/mrstack?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/mrstack) [![PyPI](https://img.shields.io/pypi/v/mrstack?style=flat-square&color=3775A9&logo=pypi&logoColor=white)](https://pypi.org/project/mrstack/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/TheStack-ai/jarvis-orb">Jarvis Orb</a>** — 3D orb for AI reasoning visualization
+<br><sub>4-Tier Memory · Temporal Scoring · Desktop Orb · Auto-connect to Claude Code</sub>
+<br><br>
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/jarvis-orb?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/jarvis-orb) [![macOS](https://img.shields.io/badge/macOS-ready-white?style=flat-square&logo=apple&logoColor=white)](https://github.com/TheStack-ai/jarvis-orb)
 
 </td>
 <td width="50%" valign="top">
@@ -192,14 +191,6 @@
   <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,tailwind,supabase,docker,sqlite,postgres,git,github,linux,apple,vscode&theme=dark" />
 </a>
 
-<br><br>
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-Max_20x-191919?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-Opus_4.6-a78bfa?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-5.4-412991?style=flat-square&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-CLI-412991?style=flat-square&logo=openai&logoColor=white)
-
 </div>
 
 ---
@@ -229,6 +220,7 @@
 
 [![Threads](https://img.shields.io/badge/Threads-@thestack__ai-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@thestack_ai)
 [![Swing Skills](https://img.shields.io/badge/Swing_Skills-Install_Now-a78bfa?style=for-the-badge)](https://github.com/TheStack-ai/swing-skills)
+[![Sponsor](https://img.shields.io/badge/Sponsor-open_source_tools-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/TheStack-ai)
 [![Email](https://img.shields.io/badge/Contact-thekcatsai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekcatsai@gmail.com)
 
 <br>
