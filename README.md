@@ -1,141 +1,24 @@
+<!-- Every card is an animated SVG drawn by scripts/render_cards.py and refreshed daily by
+     .github/workflows/profile-cards.yml. Text (models, featured repos) lives in data/profile.json.
+     Spacing is baked into the SVGs: keep this block free of blank lines, and keep the three
+     repo cards of a row on one line with no spaces between them. -->
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStack-ai/TheStack-ai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheStack-ai/TheStack-ai/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TheStack-ai/TheStack-ai/output/github-snake-dark.svg" width="100%" />
-</picture>
-
+<a href="https://github.com/TheStack-ai?tab=repositories"><img src="./cards/hero.svg" width="100%" alt="The Stack. AI Systems Builder. Cognitive firewalls and dev tools for Claude Code, Codex and Cursor." /></a><br>
+<img src="./cards/contributions.svg" width="100%" alt="Contribution graph for the last year, refreshed daily" /><br>
+<img src="./cards/stats.svg" width="100%" alt="Streaks, active days, busiest day and contributions per month" /><br>
+<img src="./cards/engines.svg" width="100%" alt="AI engines: Claude Fable 5.2 (daily driver), Codex GPT-6.1 Sol, Gemini 3.1 Pro" /><br>
+<img src="./cards/title-projects.svg" width="100%" alt="Featured projects" /><br>
+<a href="https://github.com/TheStack-ai/zclean"><img src="./cards/repo-zclean.svg" width="33.333%" alt="zclean: runtime hygiene for AI coding tools" /></a><a href="https://github.com/TheStack-ai/swing-skills"><img src="./cards/repo-swing-skills.svg" width="33.333%" alt="swing-skills: 6 cognitive firewalls for AI agents" /></a><a href="https://github.com/TheStack-ai/jarvis-orb"><img src="./cards/repo-jarvis-orb.svg" width="33.333%" alt="jarvis-orb: 3D orb that shows Claude Code reasoning" /></a><br>
+<a href="https://github.com/TheStack-ai/pulser"><img src="./cards/repo-pulser.svg" width="33.333%" alt="pulser: SKILL.md linter for Claude Code" /></a><a href="https://github.com/TheStack-ai/mrstack"><img src="./cards/repo-mrstack.svg" width="33.333%" alt="mrstack: run Claude Code from Telegram" /></a><a href="https://github.com/TheStack-ai/waypath"><img src="./cards/repo-waypath.svg" width="33.333%" alt="waypath: local-first memory CLI for coding agents" /></a><br>
+<img src="./cards/title-usage.svg" width="100%" alt="AI usage" /><br>
+<a href="https://tokscale.ai/u/TheStack-ai"><img src="https://tokscale.ai/api/embed/TheStack-ai/svg?sort=cost&compact=1" alt="Tokscale: tokens, cost and rank" /></a>
 </div>
 
+<details>
+<summary><b>Architecture: Jarvis AI OS</b></summary>
 <br>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Systems+Builder;Your+AI+is+not+swinging+at+all;6+Cognitive+Firewalls+for+AI+Agents;22+Agent+Teams+%7C+4+AI+Engines)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<table align="center">
-<tr>
-<td>
-
-<samp>
-
-```
- ████████╗██╗  ██╗███████╗    ███████╗████████╗ █████╗  ██████╗██╗  ██╗
- ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
-    ██║   ███████║█████╗      ███████╗   ██║   ███████║██║     █████╔╝
-    ██║   ██╔══██║██╔══╝      ╚════██║   ██║   ██╔══██║██║     ██╔═██╗
-    ██║   ██║  ██║███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
-    ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-```
-
-</samp>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-| | |
-|---:|:---|
-| **Role** | AI Systems Builder |
-| **Languages** | `ko_KR` · `en_US` |
-| **Daily Driver** | Claude Code Max (Fable 5) |
-
-<br>
-
-![Claude](https://img.shields.io/badge/Claude-Fable_5-a78bfa?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro_Preview-4285F4?style=flat-square&logo=google&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-5.5-412991?style=flat-square&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-GPT_5.5-412991?style=flat-square&logo=openai&logoColor=white)
-
-> *"AI could always think like this. No one ever asked it to."*
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-open_source_tools-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/TheStack-ai)
-
-</div>
-
----
-
-## AI Usage
-
-<div align="center">
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/TheStack-ai/svg?sort=cost&compact=1)](https://tokscale.ai/u/TheStack-ai)
-
-</div>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**<a href="https://github.com/TheStack-ai/zclean">zclean</a>** — Free memory cleaner for AI coding tools
-<br><sub>Claude Code · Codex · Cursor · SessionEnd Hook · Time-based protection</sub>
-<br><br>
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/zclean?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/zclean) [![npm](https://img.shields.io/npm/v/@thestackai/zclean?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@thestackai/zclean)
-
-</td>
-<td width="50%" valign="top">
-
-**<a href="https://github.com/TheStack-ai/swing-skills">Swing Skills</a>** — 6 cognitive firewalls for AI agents
-<br><sub>Unverified answers · Surface-level reviews · Optimism bias · Default lock-in · Opaque reasoning · Shallow analysis</sub>
-<br><br>
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/swing-skills?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/swing-skills) `npx skills add swing-skills --all`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**<a href="https://github.com/TheStack-ai/pulser">pulser</a>** — SKILL.md linter for Claude Code
-<br><sub>8-rule diagnostics · Auto-fix · Rollback · Eval testing · Regression detection</sub>
-<br><br>
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/pulser?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/pulser) [![npm](https://img.shields.io/npm/v/pulser-cli?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/pulser-cli)
-
-</td>
-<td width="50%" valign="top">
-
-**<a href="https://github.com/TheStack-ai/mrstack">Mr.Stack</a>** — Run Claude Code from Telegram
-<br><sub>24/7 Telegram · Long-term memory · Voice-to-action · Morning briefing · Weekly retrospective</sub>
-<br><br>
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/mrstack?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/mrstack) [![PyPI](https://img.shields.io/pypi/v/mrstack?style=flat-square&color=3775A9&logo=pypi&logoColor=white)](https://pypi.org/project/mrstack/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**<a href="https://github.com/TheStack-ai/jarvis-orb">Jarvis Orb</a>** — 3D orb for AI reasoning visualization
-<br><sub>4-Tier Memory · Temporal Scoring · Desktop Orb · Auto-connect to Claude Code</sub>
-<br><br>
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/jarvis-orb?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/jarvis-orb) [![macOS](https://img.shields.io/badge/macOS-ready-white?style=flat-square&logo=apple&logoColor=white)](https://github.com/TheStack-ai/jarvis-orb)
-
-</td>
-<td width="50%" valign="top">
-
-**<a href="https://github.com/TheStack-ai/waypath">waypath</a>** — Local-first external brain for coding agents
-<br><sub>SQLite truth kernel · Graph-aware recall (FTS5+RRF) · Promote/review governance · Native MCP server</sub>
-<br><br>
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/waypath?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/waypath) [![npm](https://img.shields.io/npm/v/waypath?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/waypath)
-
-</td>
-</tr>
-</table>
-
----
-
-## Architecture: Jarvis AI OS
-
-> Built an AI operating system on top of Claude Code as the kernel.
+> An AI operating system built on top of Claude Code as the kernel.
 > 90% of the system was built by Claude Code itself.
 
 ```
@@ -164,9 +47,6 @@
   └─────────────────────────────────────────────────┘
 ```
 
-<details>
-<summary><b>Numbers</b></summary>
-
 | Metric | Count |
 |:-------|------:|
 | Agent Teams | 22 |
@@ -176,56 +56,15 @@
 | Event Hooks | 11 |
 | Skill Mappings | 329 |
 | Python LOC | ~6,500 |
-| AI Engines | 4 (Claude Fable 5, Gemini 3.1 Pro Preview, GPT-5.5, Codex GPT-5.5) |
+| AI Engines | 3 (Claude Fable 5.2, Codex GPT-6.1 Sol, Gemini 3.1 Pro) |
 | Knowledge Graph Entities | 117 |
 
 </details>
 
----
+<p align="center">
+<i>"Route cheap-first. Hooks are criminally underrated. Memory without consolidation is just noise."</i>
+</p>
 
-## Tech Stack
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,tailwind,supabase,docker,sqlite,postgres,git,github,linux,apple,vscode&theme=dark" />
-</a>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheStack-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheStack-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStack-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%" />
-
-</div>
-
----
-
-<div align="center">
-
-*"Route cheap-first. Hooks are criminally underrated. Memory without consolidation is just noise."*
-
-<br>
-
-[![Threads](https://img.shields.io/badge/Threads-@thestack__ai-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@thestack_ai)
-[![Swing Skills](https://img.shields.io/badge/Swing_Skills-Install_Now-a78bfa?style=for-the-badge)](https://github.com/TheStack-ai/swing-skills)
-[![Sponsor](https://img.shields.io/badge/Sponsor-open_source_tools-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/TheStack-ai)
-[![Email](https://img.shields.io/badge/Contact-thekcatsai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekcatsai@gmail.com)
-
-<br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheStack-ai)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/TheStack-ai)
-
-</div>
+<p align="center">
+<a href="https://www.threads.com/@thestack_ai">threads</a> &nbsp;/&nbsp; <a href="https://thestack-ai.github.io/swing-skills/">swing skills</a> &nbsp;/&nbsp; <a href="https://github.com/sponsors/TheStack-ai">sponsor</a> &nbsp;/&nbsp; <a href="mailto:thekcatsai@gmail.com">thekcatsai@gmail.com</a>
+</p>

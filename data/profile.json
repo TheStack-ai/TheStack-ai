@@ -1,0 +1,26 @@
+{
+  "user": "TheStack-ai",
+  "prompt_user": "thestack",
+  "wordmark": "THE STACK",
+  "role": "AI Systems Builder",
+  "tagline": ["Cognitive firewalls & dev tools for", "Claude Code · Codex · Cursor"],
+  "facts": [
+    ["based", "South Korea"],
+    ["speaks", "ko_KR · en_US"],
+    ["driver", "Claude Code · Fable 5.2"]
+  ],
+  "engines": [
+    {"name": "claude", "model": "Fable 5.2", "role": "daily driver · Claude Code Max", "primary": true},
+    {"name": "codex", "model": "GPT-6.1 Sol", "role": "second opinion · bounded repairs"},
+    {"name": "gemini", "model": "3.1 Pro", "role": "long-context research"}
+  ],
+  "system": ["22 agent teams", "329 skill mappings", "11 event hooks", "4-tier memory"],
+  "repos": [
+    {"name": "zclean", "blurb": "Runtime hygiene for AI coding tools. Kills the zombie processes Claude Code, Codex and Cursor leave behind.", "cmd": "npx z-clean audit"},
+    {"name": "swing-skills", "blurb": "6 cognitive firewalls that block hallucination, bias and sloppy reasoning in AI agents.", "cmd": "npx skills add swing-skills --all"},
+    {"name": "jarvis-orb", "blurb": "A 3D orb that shows Claude Code reasoning in real time. Open-source MCP server.", "cmd": "MCP server · macOS"},
+    {"name": "pulser", "blurb": "SKILL.md linter for Claude Code. 8 diagnostic rules, auto-fix and rollback.", "cmd": "npx pulser"},
+    {"name": "mrstack", "blurb": "Run Claude Code from Telegram. An AI dev partner that works 24/7, terminal closed.", "cmd": "pip install mrstack"},
+    {"name": "waypath", "blurb": "Local-first memory CLI for coding agents. SQLite truth kernel, graph-aware recall.", "cmd": "npm i -g waypath"}
+  ]
+}
