@@ -6,7 +6,7 @@
 <a href="https://github.com/TheStack-ai?tab=repositories"><img src="./cards/hero.svg" width="100%" alt="The Stack. AI Systems Builder. Cognitive firewalls and dev tools for Claude Code, Codex and Cursor." /></a><br>
 <img src="./cards/contributions.svg" width="100%" alt="Contribution graph for the last year, refreshed daily" /><br>
 <img src="./cards/stats.svg" width="100%" alt="Streaks, active days, busiest day and contributions per month" /><br>
-<img src="./cards/engines.svg" width="100%" alt="AI engines: Claude Fable 5.2 (daily driver), Codex GPT-6.1 Sol, Gemini 3.1 Pro" /><br>
+<img src="./cards/engines.svg" width="100%" alt="AI engines: Claude Fable 5.2 (daily driver), Codex GPT-6.2 Astra, Gemini 4 Carbon" /><br>
 <img src="./cards/title-projects.svg" width="100%" alt="Featured projects" /><br>
 <a href="https://github.com/TheStack-ai/zclean"><img src="./cards/repo-zclean.svg" width="33.333%" alt="zclean: runtime hygiene for AI coding tools" /></a><a href="https://github.com/TheStack-ai/swing-skills"><img src="./cards/repo-swing-skills.svg" width="33.333%" alt="swing-skills: 6 cognitive firewalls for AI agents" /></a><a href="https://github.com/TheStack-ai/jarvis-orb"><img src="./cards/repo-jarvis-orb.svg" width="33.333%" alt="jarvis-orb: 3D orb that shows Claude Code reasoning" /></a><br>
 <a href="https://github.com/TheStack-ai/pulser"><img src="./cards/repo-pulser.svg" width="33.333%" alt="pulser: SKILL.md linter for Claude Code" /></a><a href="https://github.com/TheStack-ai/mrstack"><img src="./cards/repo-mrstack.svg" width="33.333%" alt="mrstack: run Claude Code from Telegram" /></a><a href="https://github.com/TheStack-ai/waypath"><img src="./cards/repo-waypath.svg" width="33.333%" alt="waypath: local-first memory CLI for coding agents" /></a><br>
@@ -56,7 +56,7 @@
 | Event Hooks | 11 |
 | Skill Mappings | 329 |
 | Python LOC | ~6,500 |
-| AI Engines | 3 (Claude Fable 5.2, Codex GPT-6.1 Sol, Gemini 3.1 Pro) |
+| AI Engines | 3 (Claude Fable 5.2, Codex GPT-6.2 Astra, Gemini 4 Carbon) |
 | Knowledge Graph Entities | 117 |
 
 </details>

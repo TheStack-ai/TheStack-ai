@@ -11,8 +11,8 @@
   ],
   "engines": [
     {"name": "claude", "model": "Fable 5.2", "role": "daily driver · Claude Code Max", "primary": true},
-    {"name": "codex", "model": "GPT-6.1 Sol", "role": "second opinion · bounded repairs"},
-    {"name": "gemini", "model": "3.1 Pro", "role": "long-context research"}
+    {"name": "codex", "model": "GPT-6.2 Astra", "role": "second opinion · bounded repairs"},
+    {"name": "gemini", "model": "4 Carbon", "role": "long-context research"}
   ],
   "system": ["22 agent teams", "329 skill mappings", "11 event hooks", "4-tier memory"],
   "repos": [
